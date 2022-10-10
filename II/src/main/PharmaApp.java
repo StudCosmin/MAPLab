@@ -27,6 +27,7 @@ public class PharmaApp {
         System.out.println();
         controller.updateView();
 
+        // finished
     }
 
     private static Pharma retrievePharma() {
