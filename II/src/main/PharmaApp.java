@@ -8,6 +8,8 @@ public class PharmaApp {
 
         PharmaController controller = new PharmaController(model, view);
 
+        view.showMenu();
+
         /*
             // ID: 1
             // Name: Algocalmin
@@ -28,6 +30,7 @@ public class PharmaApp {
         controller.updateView();
 
         // finished
+
     }
 
     private static Pharma retrievePharma() {
