@@ -1,0 +1,5 @@
+Austin,Rivers,30,1000000,PG,R
+Jaylen,Nowell,23,2000000,SG,R
+Anthony,Edwards,21,10000000,SF,R
+Karl-Anthony,Towns,26,33000000,PF,R
+Rudy,Gobert,30,38000000,C,R

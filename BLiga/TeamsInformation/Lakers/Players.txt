@@ -1,0 +1,5 @@
+Russell,Westbrook,33,47000000,PG,B
+Austin,Reaves,24,1500000,SG,L
+LeBron,James,37,44000000,SF,B
+Anthony,Davis,29,37000000,PF,R
+Thomas,Bryant,25,1800000,C,R

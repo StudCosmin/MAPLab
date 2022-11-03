@@ -1,0 +1,5 @@
+Jordan,Clarkson,30,13000000,PG,R
+Malik,Beasley,25,15000000,SG,R
+Rudy,Gay,36,6000000,SF,R
+Lauri,Markkanen,25,16000000,PF,R
+Kelly,Olynyk,31,12000000,C,R

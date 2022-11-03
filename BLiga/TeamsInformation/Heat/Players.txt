@@ -1,0 +1,5 @@
+Tyler,Herro,22,5000000,PG,R
+Victor,Oladipo,30,8000000,SG,R
+Jimmy,Butler,33,37000000,SF,R
+Udonis,Haslem,42,1000000,PF,R
+Bam,Adebayo,25,30000000,C,R

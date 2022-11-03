@@ -1,0 +1,5 @@
+Dalano,Banton,22,1500000,PG,R
+Fred,VanVleet,28,21000000,SG,R
+Scottie,Barnes,21,7000000,SF,R
+Pascal,Siakam,28,35000000,PF,R
+Khem,Birch,30,6000000,C,R

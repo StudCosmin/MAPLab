@@ -1,0 +1,5 @@
+Kyrie,Irving,30,36000000,PG,B
+Joe,Harris,31,18000000,SG,R
+Kevin,Durant,34,44000000,SF,R
+Ben,Simmons,26,35000000,PF,B
+Nic,Claxton,23,8000000,C,L

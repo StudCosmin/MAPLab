@@ -1,0 +1,5 @@
+Luka,Doncic,23,37000000,PG,R
+Frank,Ntilikina,24,2000000,SG,R
+Davis,Bertans,29,16000000,SF,R
+Maxi,Kleber,30,9000000,PF,R
+Christian,Wood,22,14000000,C,R

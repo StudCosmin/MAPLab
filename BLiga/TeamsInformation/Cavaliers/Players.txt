@@ -1,0 +1,5 @@
+Ricky,Rubio,32,5000000,PG,R
+Donovan,Mitchell,26,30000000,SG,R
+Cedi,Osman,27,7000000,SF,R
+Evan,Mobley,21,8000000,PF,R
+Jarrett,Allen,24,20000000,C,R

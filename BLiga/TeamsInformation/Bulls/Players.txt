@@ -1,0 +1,5 @@
+Lonzo,Ball,25,19000000,PG,R
+Zach,Lavine,27,37000000,SG,R
+DeMar,DeRozan,33,27000000,SF,R
+Patrick,Williams,21,7000000,PF,R
+Nikola,Vucevic,32,22000000,C,R
